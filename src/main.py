@@ -292,12 +292,9 @@ class ThermalController():
 #
 #
 #
-#Z-way logins:
-#Your user id: 102847
-#Your password: Lie6tohzeeyo
-
+#Z-way:
 #Your user id: 102870
-#Your password: gadeoBoofee2
+#Your kernel: gadeoBoofee2
 
 logging.basicConfig(filename='ThermalRegulator.log',level=logging.DEBUG)
 zway = zWayConnector('http://192.168.1.6:8083/')
